@@ -1,0 +1,14 @@
+COMMON: &COMMON
+  author: 'Naomichi Kuroda'
+
+development:
+  name: 'dev'
+  <<: *COMMON
+
+staging:
+  name: 'stg'
+  <<: *COMMON
+
+production:
+  name: 'prd'
+  <<: *COMMON

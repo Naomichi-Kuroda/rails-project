@@ -10,4 +10,8 @@ class HelloController < ApplicationController
   def list
     @users = User.all
   end
+
+  def app_var
+    render plain: MY_APP['author']
+  end
 end
