@@ -1,0 +1,91 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+Alphinaud:
+  id: 1
+  name: Alphinaud
+  email: alphinaud@sample.com
+  age: 11
+  address: Kugane
+  birthday: 2001-01-01
+  flg_over_limit: false
+
+Yashtola:
+  id: 2
+  name: Yashtola
+  email: yashtola@sample.com
+  age: 12
+  address: Rhalgrs Reach
+  birthday: 2002-02-02
+  flg_over_limit: false
+
+Minfilia:
+  id: 3
+  name: Minfilia
+  email: minfilia@sample.com
+  age: 13
+  address: Mor Dhona
+  birthday: 2003-03-03
+  flg_over_limit: true
+
+Thancred:
+  id: 4
+  name: Thancred
+  email: thancred@sample.com
+  age: 14
+  address: Mor Dhona
+  birthday: 2004-04-04
+  flg_over_limit: false
+
+Tataru:
+  id: 5
+  name: Tataru
+  email: tataru@sample.com
+  age: 15
+  address: Kugane
+  birthday: 2005-05-05
+  flg_over_limit: false
+
+Yda:
+  id: 6
+  name: Yda
+  email: yda@sample.com
+  age: 16
+  address: Mor Dhona
+  birthday: 2006-06-06
+  flg_over_limit: false
+
+Papalymo:
+  id: 7
+  name: Papalymo
+  email: papalymo@sample.com
+  age: 17
+  address: Mor Dhona
+  birthday: 2007-07-07
+  flg_over_limit: false
+
+Urianger:
+  id: 8
+  name: Urianger
+  email: urianger@sample.com
+  age: 18
+  address: West Thanalan
+  birthday: 2008-08-08
+  flg_over_limit: false
+
+Alisaie:
+  id: 9
+  name: Alisaie
+  email: alisaie@sample.com
+  age: 19
+  address: Kugane
+  birthday: 2009-09-09
+  flg_over_limit: false
+
+Krile:
+  id: 10
+  name: Krile
+  email: krile@sample.com
+  age: 20
+  address: Mor Dhona
+  birthday: 2010-10-10
+  flg_over_limit: true

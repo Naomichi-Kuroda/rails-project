@@ -6,4 +6,8 @@ class HelloController < ApplicationController
   def view
     @msg = 'Hello World!'
   end
+
+  def list
+    @users = User.all
+  end
 end
