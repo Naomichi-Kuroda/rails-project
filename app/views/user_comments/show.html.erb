@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Character:</strong>
+  <%= @user_comment.character_id %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @user_comment.name %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @user_comment.body %>
+</p>
+
+<p>
+  <strong>Deleted:</strong>
+  <%= @user_comment.deleted %>
+</p>
+
+<%= link_to 'Edit', edit_user_comment_path(@user_comment) %> |
+<%= link_to 'Back', user_comments_path %>

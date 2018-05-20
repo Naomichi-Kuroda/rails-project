@@ -1,8 +1,7 @@
 Rails.application.routes.draw do
+  resources :user_comments
+  resources :item_comments
+  resources :characters
+  resources :items
   resources :users
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  get 'hello/index'
-  get 'hello/view'
-  get 'hello/list'
-  get 'hello/app_var'
 end

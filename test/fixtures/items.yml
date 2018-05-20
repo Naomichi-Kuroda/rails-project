@@ -1,0 +1,52 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+item1:
+  id: 1
+  name: 'ダイヤソード'
+  value: 375
+
+item2:
+  id: 2
+  name: '焔'
+  value: 360
+
+item3:
+  id: 3
+  name: '白虎石剣'
+  value: 355
+
+item4:
+  id: 4
+  name: '源氏之七支刀'
+  value: 345
+
+item5:
+  id: 5
+  name: 'バハムートブレード【絶】'
+  value: 345
+
+item6:
+  id: 6
+  name: '神龍直剣'
+  value: 335
+
+item7:
+  id: 7
+  name: 'ロストアラガン・セイバー'
+  value: 330
+
+item8:
+  id: 8
+  name: '須佐之男直剣'
+  value: 320
+
+item9:
+  id: 9
+  name: 'アラミガンキリジ'
+  value: 310
+
+item10:
+  id: 10
+  name: 'アレキサンダー・メタルブレード'
+  value: 275
+

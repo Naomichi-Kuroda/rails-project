@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+chara1:
+  id: 1
+  user_id: 1
+  name: 'アルフィノ'
+
+chara2:
+  id: 2
+  user_id: 2
+  name: 'ヤシュトラ'
+
+chara3:
+  id: 3
+  user_id: 3
+  name: 'ミンフィリア'
+

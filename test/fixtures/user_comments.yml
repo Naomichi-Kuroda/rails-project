@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+comment1:
+  id: 1
+  character_id: 1
+  name: '義心のゼフィラン'
+  body: '申し訳なく思っている'
+
+comment2:
+  id: 2
+  character_id: 2
+  name: '無残のシャリベル'
+  body: 'ドブネズミめ！'
+
+comment3:
+  id: 3
+  character_id: 3
+  name: '戦狂のグリノー'
+  body: 'ミンチにしてやる！'

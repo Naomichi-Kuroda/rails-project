@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+user1:
+  id: 1
+  name: 'ユーザー1'
+  password: 'password1'
+  email: 'user1@gmail.com'
+
+user2:
+  id: 2
+  name: 'ユーザー2'
+  password: 'password2'
+  email: 'user2@gmail.com'
+
+user3:
+  id: 3
+  name: 'ユーザー3'
+  password: 'password3'
+  email: 'user3@gmail.com'
+
+user4:
+  id: 4
+  name: 'ユーザー4'
+  password: 'password4'
+  email: 'user4@gmail.com'
+
+user5:
+  id: 5
+  name: 'ユーザー5'
+  password: 'password5'
+  email: 'user5@gmail.com'
